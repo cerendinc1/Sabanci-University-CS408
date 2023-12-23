@@ -1,0 +1,5 @@
+C:\Users\alpay\source\repos\client_final\client_final\bin\Release\net6.0-windows\publish\client_final.exe
+C:\Users\alpay\source\repos\client_final\client_final\bin\Release\net6.0-windows\publish\client_final.dll
+C:\Users\alpay\source\repos\client_final\client_final\bin\Release\net6.0-windows\publish\client_final.deps.json
+C:\Users\alpay\source\repos\client_final\client_final\bin\Release\net6.0-windows\publish\client_final.runtimeconfig.json
+C:\Users\alpay\source\repos\client_final\client_final\bin\Release\net6.0-windows\publish\client_final.pdb

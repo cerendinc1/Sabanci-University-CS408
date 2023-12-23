@@ -1,0 +1,5 @@
+C:\Users\alpay\source\repos\408_p_server\408_p_server\bin\Release\net6.0-windows\publish\408_p_server.exe
+C:\Users\alpay\source\repos\408_p_server\408_p_server\bin\Release\net6.0-windows\publish\408_p_server.dll
+C:\Users\alpay\source\repos\408_p_server\408_p_server\bin\Release\net6.0-windows\publish\408_p_server.deps.json
+C:\Users\alpay\source\repos\408_p_server\408_p_server\bin\Release\net6.0-windows\publish\408_p_server.runtimeconfig.json
+C:\Users\alpay\source\repos\408_p_server\408_p_server\bin\Release\net6.0-windows\publish\408_p_server.pdb

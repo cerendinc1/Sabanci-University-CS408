@@ -1,0 +1,17 @@
+C:\Users\alpay\source\repos\408_p_server\408_p_server\bin\Release\net6.0-windows\408_p_server.exe
+C:\Users\alpay\source\repos\408_p_server\408_p_server\bin\Release\net6.0-windows\408_p_server.deps.json
+C:\Users\alpay\source\repos\408_p_server\408_p_server\bin\Release\net6.0-windows\408_p_server.runtimeconfig.json
+C:\Users\alpay\source\repos\408_p_server\408_p_server\bin\Release\net6.0-windows\408_p_server.dll
+C:\Users\alpay\source\repos\408_p_server\408_p_server\bin\Release\net6.0-windows\408_p_server.pdb
+C:\Users\alpay\source\repos\408_p_server\408_p_server\obj\Release\net6.0-windows\408_p_server.csproj.AssemblyReference.cache
+C:\Users\alpay\source\repos\408_p_server\408_p_server\obj\Release\net6.0-windows\_408_p_server.Form1.resources
+C:\Users\alpay\source\repos\408_p_server\408_p_server\obj\Release\net6.0-windows\408_p_server.csproj.GenerateResource.cache
+C:\Users\alpay\source\repos\408_p_server\408_p_server\obj\Release\net6.0-windows\408_p_server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alpay\source\repos\408_p_server\408_p_server\obj\Release\net6.0-windows\408_p_server.AssemblyInfoInputs.cache
+C:\Users\alpay\source\repos\408_p_server\408_p_server\obj\Release\net6.0-windows\408_p_server.AssemblyInfo.cs
+C:\Users\alpay\source\repos\408_p_server\408_p_server\obj\Release\net6.0-windows\408_p_server.csproj.CoreCompileInputs.cache
+C:\Users\alpay\source\repos\408_p_server\408_p_server\obj\Release\net6.0-windows\408_p_server.dll
+C:\Users\alpay\source\repos\408_p_server\408_p_server\obj\Release\net6.0-windows\refint\408_p_server.dll
+C:\Users\alpay\source\repos\408_p_server\408_p_server\obj\Release\net6.0-windows\408_p_server.pdb
+C:\Users\alpay\source\repos\408_p_server\408_p_server\obj\Release\net6.0-windows\408_p_server.genruntimeconfig.cache
+C:\Users\alpay\source\repos\408_p_server\408_p_server\obj\Release\net6.0-windows\ref\408_p_server.dll

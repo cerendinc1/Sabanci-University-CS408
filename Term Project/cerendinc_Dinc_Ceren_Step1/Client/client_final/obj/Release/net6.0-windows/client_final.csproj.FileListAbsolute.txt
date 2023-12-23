@@ -1,0 +1,17 @@
+C:\Users\alpay\source\repos\client_final\client_final\bin\Release\net6.0-windows\client_final.exe
+C:\Users\alpay\source\repos\client_final\client_final\bin\Release\net6.0-windows\client_final.deps.json
+C:\Users\alpay\source\repos\client_final\client_final\bin\Release\net6.0-windows\client_final.runtimeconfig.json
+C:\Users\alpay\source\repos\client_final\client_final\bin\Release\net6.0-windows\client_final.dll
+C:\Users\alpay\source\repos\client_final\client_final\bin\Release\net6.0-windows\client_final.pdb
+C:\Users\alpay\source\repos\client_final\client_final\obj\Release\net6.0-windows\client_final.csproj.AssemblyReference.cache
+C:\Users\alpay\source\repos\client_final\client_final\obj\Release\net6.0-windows\client_final.Form1.resources
+C:\Users\alpay\source\repos\client_final\client_final\obj\Release\net6.0-windows\client_final.csproj.GenerateResource.cache
+C:\Users\alpay\source\repos\client_final\client_final\obj\Release\net6.0-windows\client_final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alpay\source\repos\client_final\client_final\obj\Release\net6.0-windows\client_final.AssemblyInfoInputs.cache
+C:\Users\alpay\source\repos\client_final\client_final\obj\Release\net6.0-windows\client_final.AssemblyInfo.cs
+C:\Users\alpay\source\repos\client_final\client_final\obj\Release\net6.0-windows\client_final.csproj.CoreCompileInputs.cache
+C:\Users\alpay\source\repos\client_final\client_final\obj\Release\net6.0-windows\client_final.dll
+C:\Users\alpay\source\repos\client_final\client_final\obj\Release\net6.0-windows\refint\client_final.dll
+C:\Users\alpay\source\repos\client_final\client_final\obj\Release\net6.0-windows\client_final.pdb
+C:\Users\alpay\source\repos\client_final\client_final\obj\Release\net6.0-windows\client_final.genruntimeconfig.cache
+C:\Users\alpay\source\repos\client_final\client_final\obj\Release\net6.0-windows\ref\client_final.dll
